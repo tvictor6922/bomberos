@@ -1,0 +1,43 @@
+
+h1 {
+   text-align: center;
+   font-size: 40px;
+   Color: red;
+   word-spacing: 5px;
+   text-shadow: 3px 2px black;
+}
+
+h2 {
+   text-align: center;
+   font-size: 35px;
+   Color: black;
+   word-spacing: 5px;
+}
+
+.navbar {
+  width: 100%;
+  background-color: black;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: red;
+  text-decoration: none;
+  font-size: 17px;
+  width: 18%;
+  text-align: center;
+}
+
+.navbar a:hover{
+  background-color: white;
+}
+
+.navbar a:active {
+  background-color: white;
+}
+
+.navbar a:visited {
+  background-color: red;
+}
